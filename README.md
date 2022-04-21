@@ -13,46 +13,38 @@ Hi there!
 ✈️ I love traveling too. I have been on solo trips to Zanzibar(2015), Kenya(2015) and Mozambique (2016).
 
 🏅 Achievements
+
 📝 BTech Electronic Engineering from the Harare Institute of Technology (2016)
 
 🛠️ Skills
 Languages
-c# java c c++ php kotlin dart python
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![solidify](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
 
-Cross Platform Development
-Android Studio Visual Studio Flutter MySQL Keil
+
+Application Development
+![android studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
 Web Development (Front-End)
-next react redux react-router material-ui pwa chakra-ui tailwind-css storybook graphql three.js html css sass bootstrap jquery
+material-ui html css bootstrap jquery
+![material-ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-Block-Chain Development
-ethereum web3 solidity
 
-
-
-Backend as a Service (BaaS)
-firebase vercel heroku netlify
-
-Design Tools
-adobe-xd figma canva
-
-Testing
-mocha jest pytest
-
-🖥️ Workspace Setup
-i5-8th-gen gtx-1060 windows vs-code
-
-📝 Top Blog Posts
-Zero to Hero: Front End Developer Roadmap
-Beautify Your GitHub Profile like a Pro
-5 projects to master Front End Development
-5 Tips to Take your Website Lighthouse Score from Meh to WOW!
-5 Tips Every React Developer Should Know
-Want to read more? Check out all the blogs
-
-📈 Stats
-profile trophies
-Tapajyoti Bose's GitHub Stats
-visitors
 🔗 Links
 portfolio resume upwork linked-in dev.to github medium gmail instagram
