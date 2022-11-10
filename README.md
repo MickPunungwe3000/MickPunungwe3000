@@ -2,7 +2,7 @@ Hi there!
 
 🚀 About Me
 
-🎓 I am Maverik Punungwe, a Full Stack Software Architect & Engineer (currently specializing in Digital Signage and Energy Conservation Applications). I am also building an AI powered Digital Signage Company that will improve customer experience in health, finance and retail.
+🎓 I am Maverik Punungwe, a Full Stack Software Architect & Engineer (currently specializing in Digital Signage and Energy Conservation Applications). I am also building an AI powered Digital Signage Platform that will improve customer experience in health, finance and retail.
 
 👨‍💻 I am really enthusiastic about learning new technologies. Recently, I learned Dart and Blockchain development.I also got started with Freelancing and Blogging quite recently and I am going to make a name for myself.
 
